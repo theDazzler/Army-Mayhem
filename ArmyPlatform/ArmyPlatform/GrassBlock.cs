@@ -15,7 +15,7 @@ namespace ArmyPlatform
     class GrassBlock : Block
     {
         public GrassBlock(Game game, float xPos, float yPos, int width, int height)
-            : base(game, "grass", xPos, yPos, width, height)
+            : base(game, "images/grass", xPos, yPos, width, height)
         {
             this.isDestructible = true;
             this.hardness = .5f;

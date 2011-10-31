@@ -10,16 +10,17 @@ C:\Users\Devon\documents\visual studio 2010\Projects\ArmyPlatform\ArmyPlatform\A
 C:\Users\Devon\documents\visual studio 2010\Projects\ArmyPlatform\ArmyPlatform\ArmyPlatform\bin\x86\Debug\Content\hitBox.xnb
 C:\Users\Devon\documents\visual studio 2010\Projects\ArmyPlatform\ArmyPlatform\ArmyPlatform\bin\x86\Debug\Content\assaultBasicBullet.xnb
 C:\Users\Devon\documents\visual studio 2010\Projects\ArmyPlatform\ArmyPlatform\ArmyPlatform\bin\x86\Debug\Content\normalAssaultBullet.xnb
-C:\Users\Devon\git_projects\Army-Mayhem\ArmyPlatform\ArmyPlatform\bin\x86\Debug\Content\grass.xnb
-C:\Users\Devon\git_projects\Army-Mayhem\ArmyPlatform\ArmyPlatform\bin\x86\Debug\Content\stance.xnb
-C:\Users\Devon\git_projects\Army-Mayhem\ArmyPlatform\ArmyPlatform\bin\x86\Debug\Content\iron.xnb
-C:\Users\Devon\git_projects\Army-Mayhem\ArmyPlatform\ArmyPlatform\bin\x86\Debug\Content\hitBox.xnb
-C:\Users\Devon\git_projects\Army-Mayhem\ArmyPlatform\ArmyPlatform\bin\x86\Debug\Content\assaultBasicBullet.xnb
-C:\Users\Devon\git_projects\Army-Mayhem\ArmyPlatform\ArmyPlatform\bin\x86\Debug\Content\normalAssaultBullet.xnb
 C:\Users\Devon\git_projects\Army-Mayhem\ArmyPlatform\ArmyPlatform\bin\x86\Debug\ArmyPlatform.exe
 C:\Users\Devon\git_projects\Army-Mayhem\ArmyPlatform\ArmyPlatform\bin\x86\Debug\ArmyPlatform.pdb
 C:\Users\Devon\git_projects\Army-Mayhem\ArmyPlatform\ArmyPlatform\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\Devon\git_projects\Army-Mayhem\ArmyPlatform\ArmyPlatform\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\Devon\git_projects\Army-Mayhem\ArmyPlatform\ArmyPlatform\obj\x86\Debug\ArmyPlatform.exe
 C:\Users\Devon\git_projects\Army-Mayhem\ArmyPlatform\ArmyPlatform\obj\x86\Debug\ArmyPlatform.pdb
-C:\Users\Devon\git_projects\Army-Mayhem\ArmyPlatform\ArmyPlatform\bin\x86\Debug\Content\bottom_equipment_toolbar.xnb
+C:\Users\Devon\git_projects\Army-Mayhem\ArmyPlatform\ArmyPlatform\bin\x86\Debug\Content\images\grass.xnb
+C:\Users\Devon\git_projects\Army-Mayhem\ArmyPlatform\ArmyPlatform\bin\x86\Debug\Content\images\stance.xnb
+C:\Users\Devon\git_projects\Army-Mayhem\ArmyPlatform\ArmyPlatform\bin\x86\Debug\Content\images\iron.xnb
+C:\Users\Devon\git_projects\Army-Mayhem\ArmyPlatform\ArmyPlatform\bin\x86\Debug\Content\images\hitBox.xnb
+C:\Users\Devon\git_projects\Army-Mayhem\ArmyPlatform\ArmyPlatform\bin\x86\Debug\Content\images\assaultBasicBullet.xnb
+C:\Users\Devon\git_projects\Army-Mayhem\ArmyPlatform\ArmyPlatform\bin\x86\Debug\Content\images\bottom_equipment_toolbar.xnb
+C:\Users\Devon\git_projects\Army-Mayhem\ArmyPlatform\ArmyPlatform\bin\x86\Debug\Content\sounds\normalAssaultBullet.xnb
+C:\Users\Devon\git_projects\Army-Mayhem\ArmyPlatform\ArmyPlatform\bin\x86\Debug\Content\sounds\Diamonds.xnb

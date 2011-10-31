@@ -32,14 +32,13 @@ namespace ArmyPlatform
         //public Item[] items;
         public Gun gun;
         
-
         public Character(Game game, RandomMap randomMap, string imageName, float xPos, float yPos, int width, int height)
             : base(game, imageName, xPos, yPos, width, height)
         {
             this.randomMap = randomMap;
             this.velocity.X = 205.0f;
             this.velocity.Y = 250.0f;
-            this.gun = new AssaultRifle(game, randomMap, 50f, 50f, 32, 32);
+            
         }
 
         public override void Update(GameTime gameTime)
@@ -55,9 +54,15 @@ namespace ArmyPlatform
             this.gun.fireTime += (float)gameTime.ElapsedGameTime.TotalSeconds;
             if (currentMouseState.LeftButton == ButtonState.Pressed && this.gun.fireTime >= this.gun.fireRate)
             {
-                this.gun.fireTime = 0;
-                this.gun.soundEffect.Play();
-                this.gun.bullets.Add(new NormalAssaultBullet(this.Game, this.position.X, this.position.Y));
+                Console.Out.WriteLine(this.gun.currentAmmo);
+                //if gun has ammo
+                if (this.gun.currentAmmo > 0)
+                {
+                    this.gun.currentAmmo -= 1;
+                    this.gun.fireTime = 0;
+                    this.gun.soundEffect.Play();
+                    this.gun.bullets.Add(new NormalAssaultBullet(this.Game, this.position.X, this.position.Y));
+                }
             }
             
             //if player is falling, make player fall

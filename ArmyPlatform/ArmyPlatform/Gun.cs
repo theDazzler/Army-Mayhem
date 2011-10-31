@@ -18,18 +18,16 @@ namespace ArmyPlatform
         public float fireRate; //how fast gun shoots, the lower the rate, the faster it shoots
         public float fireTime = 0f;
         protected int maxAmmo; //how much ammo gun can hold
-        protected int currentAmmo; //how much ammo gun currently has
+        public int currentAmmo; //how much ammo gun currently has
         protected int roundsPerMag; //how much ammo per magazine
         public List<Bullet> bullets = new List<Bullet>();
         public RandomMap randomMap;
 
-        public Gun(Game game, RandomMap randomMap, int currentAmmo, string imageName, float xPos, float yPos, int width, int height)
+        public Gun(Game game, RandomMap randomMap, string imageName, float xPos, float yPos, int width, int height)
             : base(game, imageName, xPos, yPos, width, height)
         {
-            this.currentAmmo = currentAmmo;
             this.LoadContent();
             this.randomMap = randomMap;
-
         }
 
         public override void Update(GameTime gameTime)
@@ -62,7 +60,7 @@ namespace ArmyPlatform
 
         protected override void LoadContent()
         {
-            this.soundEffect = Game.Content.Load<SoundEffect>("normalAssaultBullet");
+            this.soundEffect = Game.Content.Load<SoundEffect>("sounds/normalAssaultBullet");
             base.LoadContent();
         }
 

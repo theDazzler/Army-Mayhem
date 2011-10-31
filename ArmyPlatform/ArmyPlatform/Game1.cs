@@ -16,13 +16,12 @@ namespace ArmyPlatform
     /// </summary>
     public class Game1 : Microsoft.Xna.Framework.Game
     {
-        const int UI_PADDING = 10;
-
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
         RandomMap randomMap;
         Character player;
         Camera camera;
+        SoundEffect bgMusic;
 
         UI_Element bottomItemBar;
 
@@ -31,10 +30,10 @@ namespace ArmyPlatform
             graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
 
-            graphics.PreferredBackBufferWidth = 960;
-            graphics.PreferredBackBufferHeight = 540;
+            graphics.PreferredBackBufferWidth = 1280;
+            graphics.PreferredBackBufferHeight = 720;
             //this.graphics.IsFullScreen = true;
-            this.IsMouseVisible = true;
+            this.IsMouseVisible = true;      
         }
 
         /// <summary>
@@ -45,12 +44,12 @@ namespace ArmyPlatform
         /// </summary>
         protected override void Initialize()
         {
-            randomMap = new RandomMap(this, 1000, 300);
-            player = new AssaultSoldier(this, randomMap, this.GraphicsDevice.Viewport.Width * 0.5f, 0f, 64, 128);
+            randomMap = new RandomMap(this, 3200, 300);
+            player = new AssaultSoldier(this, randomMap, (this.GraphicsDevice.Viewport.Width / 2) - 32, 0f, 64, 128);
             camera = new Camera(this);
             Components.Add(player);
 
-            bottomItemBar = new UI_Element(this, "bottom_equipment_toolbar"); 
+            bottomItemBar = new UI_Element(this, "images/bottom_equipment_toolbar"); //bottom inventory bar
 
             base.Initialize();
         }
@@ -63,11 +62,13 @@ namespace ArmyPlatform
         {
             // Create a new SpriteBatch, which can be used to draw textures.
             spriteBatch = new SpriteBatch(GraphicsDevice);
-
+            //background music
+            bgMusic = this.Content.Load<SoundEffect>("sounds/Diamonds");
+            bgMusic.Play();
+            
             bottomItemBar.loadContent(this);
 
             Services.AddService(typeof(SpriteBatch), spriteBatch);
-
         }
 
         /// <summary>

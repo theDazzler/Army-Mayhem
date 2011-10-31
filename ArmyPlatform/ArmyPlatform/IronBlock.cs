@@ -15,7 +15,7 @@ namespace ArmyPlatform
     class IronBlock : Block
     {
         public IronBlock(Game game, float xPos, float yPos, int width, int height)
-            : base(game, "iron", xPos, yPos, width, height)
+            : base(game, "images/iron", xPos, yPos, width, height)
         {
             this.isDestructible = true;
             this.hardness = 1.0f;

@@ -1,7 +1,8 @@
-Content\grass.xnb
-Content\stance.xnb
-Content\iron.xnb
-Content\hitBox.xnb
-Content\assaultBasicBullet.xnb
-Content\normalAssaultBullet.xnb
-Content\bottom_equipment_toolbar.xnb
+Content\images\grass.xnb
+Content\images\stance.xnb
+Content\images\iron.xnb
+Content\images\hitBox.xnb
+Content\images\assaultBasicBullet.xnb
+Content\images\bottom_equipment_toolbar.xnb
+Content\sounds\normalAssaultBullet.xnb
+Content\sounds\Diamonds.xnb

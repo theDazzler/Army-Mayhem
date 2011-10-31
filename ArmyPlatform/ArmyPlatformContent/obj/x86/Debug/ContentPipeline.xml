@@ -2,67 +2,76 @@
 <XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
   <Asset Type="Pipeline:BuildItemCollection">
     <Item>
-      <Source>grass.png</Source>
-      <Name>grass</Name>
+      <Source>images\grass.png</Source>
+      <Name>images\grass</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Devon\git_projects\Army-Mayhem\ArmyPlatform\ArmyPlatform\bin\x86\Debug\Content\grass.xnb</Output>
+      <Output>C:\Users\Devon\git_projects\Army-Mayhem\ArmyPlatform\ArmyPlatform\bin\x86\Debug\Content\images\grass.xnb</Output>
       <Time>2011-10-30T23:31:28.445-04:00</Time>
     </Item>
     <Item>
-      <Source>stance.png</Source>
-      <Name>stance</Name>
+      <Source>images\stance.png</Source>
+      <Name>images\stance</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Devon\git_projects\Army-Mayhem\ArmyPlatform\ArmyPlatform\bin\x86\Debug\Content\stance.xnb</Output>
+      <Output>C:\Users\Devon\git_projects\Army-Mayhem\ArmyPlatform\ArmyPlatform\bin\x86\Debug\Content\images\stance.xnb</Output>
       <Time>2011-10-30T23:31:28.456-04:00</Time>
     </Item>
     <Item>
-      <Source>iron.png</Source>
-      <Name>iron</Name>
+      <Source>images\iron.png</Source>
+      <Name>images\iron</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Devon\git_projects\Army-Mayhem\ArmyPlatform\ArmyPlatform\bin\x86\Debug\Content\iron.xnb</Output>
+      <Output>C:\Users\Devon\git_projects\Army-Mayhem\ArmyPlatform\ArmyPlatform\bin\x86\Debug\Content\images\iron.xnb</Output>
       <Time>2011-10-30T23:31:28.448-04:00</Time>
     </Item>
     <Item>
-      <Source>hitBox.png</Source>
-      <Name>hitBox</Name>
+      <Source>images\hitBox.png</Source>
+      <Name>images\hitBox</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Devon\git_projects\Army-Mayhem\ArmyPlatform\ArmyPlatform\bin\x86\Debug\Content\hitBox.xnb</Output>
+      <Output>C:\Users\Devon\git_projects\Army-Mayhem\ArmyPlatform\ArmyPlatform\bin\x86\Debug\Content\images\hitBox.xnb</Output>
       <Time>2011-10-30T23:31:28.446-04:00</Time>
     </Item>
     <Item>
-      <Source>assaultBasicBullet.png</Source>
-      <Name>assaultBasicBullet</Name>
+      <Source>images\assaultBasicBullet.png</Source>
+      <Name>images\assaultBasicBullet</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Devon\git_projects\Army-Mayhem\ArmyPlatform\ArmyPlatform\bin\x86\Debug\Content\assaultBasicBullet.xnb</Output>
+      <Output>C:\Users\Devon\git_projects\Army-Mayhem\ArmyPlatform\ArmyPlatform\bin\x86\Debug\Content\images\assaultBasicBullet.xnb</Output>
       <Time>2011-10-30T23:31:28.444-04:00</Time>
     </Item>
     <Item>
-      <Source>normalAssaultBullet.wav</Source>
-      <Name>normalAssaultBullet</Name>
-      <Importer>WavImporter</Importer>
-      <Processor>SoundEffectProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\Devon\git_projects\Army-Mayhem\ArmyPlatform\ArmyPlatform\bin\x86\Debug\Content\normalAssaultBullet.xnb</Output>
-      <Time>2011-10-30T23:31:28.449-04:00</Time>
-    </Item>
-    <Item>
-      <Source>bottom_equipment_toolbar.png</Source>
-      <Name>bottom_equipment_toolbar</Name>
+      <Source>images\bottom_equipment_toolbar.png</Source>
+      <Name>images\bottom_equipment_toolbar</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Devon\git_projects\Army-Mayhem\ArmyPlatform\ArmyPlatform\bin\x86\Debug\Content\bottom_equipment_toolbar.xnb</Output>
-      <Time>2011-10-31T00:22:10.85-04:00</Time>
+      <Output>C:\Users\Devon\git_projects\Army-Mayhem\ArmyPlatform\ArmyPlatform\bin\x86\Debug\Content\images\bottom_equipment_toolbar.xnb</Output>
+      <Time>2011-10-31T01:37:50.068-04:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\normalAssaultBullet.wav</Source>
+      <Name>sounds\normalAssaultBullet</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Devon\git_projects\Army-Mayhem\ArmyPlatform\ArmyPlatform\bin\x86\Debug\Content\sounds\normalAssaultBullet.xnb</Output>
+      <Time>2011-10-30T23:31:28.449-04:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\Diamonds.wav</Source>
+      <Name>sounds\Diamonds</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Devon\git_projects\Army-Mayhem\ArmyPlatform\ArmyPlatform\bin\x86\Debug\Content\sounds\Diamonds.xnb</Output>
+      <Time>2011-10-31T02:05:23.932-04:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>

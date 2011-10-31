@@ -8,7 +8,7 @@ namespace ArmyPlatform
 {
     class NormalAssaultBullet : Bullet
     {
-        public NormalAssaultBullet(Game game, float xPos, float yPos) : base (game, "assaultBasicBullet", xPos, yPos, 16, 16)
+        public NormalAssaultBullet(Game game, float xPos, float yPos) : base (game, "images/assaultBasicBullet", xPos, yPos, 16, 16)
         {
             this.velocity.X = 15f;
             this.velocity.Y = 15f;

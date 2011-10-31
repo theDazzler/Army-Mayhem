@@ -40,7 +40,7 @@ namespace ArmyPlatform
             this.imageName = imageName;
             this.image = Game.Content.Load<Texture2D>(imageName);
             this.position = new Vector2(xPos, yPos);
-            this.hitBox = Game.Content.Load<Texture2D>("hitBox");
+            this.hitBox = Game.Content.Load<Texture2D>("images/hitBox");
         }
 
         /// <summary>
