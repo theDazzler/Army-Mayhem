@@ -1,0 +1,24 @@
+c:\users\devon\documents\visual studio 2010\Projects\ArmyPlatform\ArmyPlatform\ArmyPlatform\bin\x86\Debug\ArmyPlatform.exe
+c:\users\devon\documents\visual studio 2010\Projects\ArmyPlatform\ArmyPlatform\ArmyPlatform\bin\x86\Debug\ArmyPlatform.pdb
+c:\users\devon\documents\visual studio 2010\Projects\ArmyPlatform\ArmyPlatform\ArmyPlatform\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\devon\documents\visual studio 2010\Projects\ArmyPlatform\ArmyPlatform\ArmyPlatform\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\devon\documents\visual studio 2010\Projects\ArmyPlatform\ArmyPlatform\ArmyPlatform\obj\x86\Debug\ArmyPlatform.exe
+c:\users\devon\documents\visual studio 2010\Projects\ArmyPlatform\ArmyPlatform\ArmyPlatform\obj\x86\Debug\ArmyPlatform.pdb
+c:\users\devon\documents\visual studio 2010\Projects\ArmyPlatform\ArmyPlatform\ArmyPlatform\bin\x86\Debug\Content\stance.xnb
+C:\Users\Devon\documents\visual studio 2010\Projects\ArmyPlatform\ArmyPlatform\ArmyPlatform\bin\x86\Debug\Content\grass.xnb
+C:\Users\Devon\documents\visual studio 2010\Projects\ArmyPlatform\ArmyPlatform\ArmyPlatform\bin\x86\Debug\Content\iron.xnb
+C:\Users\Devon\documents\visual studio 2010\Projects\ArmyPlatform\ArmyPlatform\ArmyPlatform\bin\x86\Debug\Content\hitBox.xnb
+C:\Users\Devon\documents\visual studio 2010\Projects\ArmyPlatform\ArmyPlatform\ArmyPlatform\bin\x86\Debug\Content\assaultBasicBullet.xnb
+C:\Users\Devon\documents\visual studio 2010\Projects\ArmyPlatform\ArmyPlatform\ArmyPlatform\bin\x86\Debug\Content\normalAssaultBullet.xnb
+C:\Users\Devon\git_projects\Army-Mayhem\ArmyPlatform\ArmyPlatform\bin\x86\Debug\Content\grass.xnb
+C:\Users\Devon\git_projects\Army-Mayhem\ArmyPlatform\ArmyPlatform\bin\x86\Debug\Content\stance.xnb
+C:\Users\Devon\git_projects\Army-Mayhem\ArmyPlatform\ArmyPlatform\bin\x86\Debug\Content\iron.xnb
+C:\Users\Devon\git_projects\Army-Mayhem\ArmyPlatform\ArmyPlatform\bin\x86\Debug\Content\hitBox.xnb
+C:\Users\Devon\git_projects\Army-Mayhem\ArmyPlatform\ArmyPlatform\bin\x86\Debug\Content\assaultBasicBullet.xnb
+C:\Users\Devon\git_projects\Army-Mayhem\ArmyPlatform\ArmyPlatform\bin\x86\Debug\Content\normalAssaultBullet.xnb
+C:\Users\Devon\git_projects\Army-Mayhem\ArmyPlatform\ArmyPlatform\bin\x86\Debug\ArmyPlatform.exe
+C:\Users\Devon\git_projects\Army-Mayhem\ArmyPlatform\ArmyPlatform\bin\x86\Debug\ArmyPlatform.pdb
+C:\Users\Devon\git_projects\Army-Mayhem\ArmyPlatform\ArmyPlatform\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Devon\git_projects\Army-Mayhem\ArmyPlatform\ArmyPlatform\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Devon\git_projects\Army-Mayhem\ArmyPlatform\ArmyPlatform\obj\x86\Debug\ArmyPlatform.exe
+C:\Users\Devon\git_projects\Army-Mayhem\ArmyPlatform\ArmyPlatform\obj\x86\Debug\ArmyPlatform.pdb

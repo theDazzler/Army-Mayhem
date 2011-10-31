@@ -1,0 +1,2 @@
+c:\users\devon\documents\visual studio 2010\Projects\ArmyPlatform\ArmyPlatform\ArmyPlatformContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Devon\git_projects\Army-Mayhem\ArmyPlatform\ArmyPlatformContent\obj\x86\Debug\ResolveAssemblyReference.cache
