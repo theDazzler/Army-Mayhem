@@ -8,7 +8,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Devon\git_projects\Army-Mayhem\ArmyPlatform\ArmyPlatform\bin\x86\Debug\Content\images\grass.xnb</Output>
-      <Time>2011-10-30T23:31:28.445-04:00</Time>
+      <Time>2011-10-31T03:06:16.626-04:00</Time>
     </Item>
     <Item>
       <Source>images\stance.png</Source>
@@ -17,7 +17,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Devon\git_projects\Army-Mayhem\ArmyPlatform\ArmyPlatform\bin\x86\Debug\Content\images\stance.xnb</Output>
-      <Time>2011-10-30T23:31:28.456-04:00</Time>
+      <Time>2011-10-31T03:06:16.629-04:00</Time>
     </Item>
     <Item>
       <Source>images\iron.png</Source>
@@ -26,7 +26,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Devon\git_projects\Army-Mayhem\ArmyPlatform\ArmyPlatform\bin\x86\Debug\Content\images\iron.xnb</Output>
-      <Time>2011-10-30T23:31:28.448-04:00</Time>
+      <Time>2011-10-31T03:06:16.628-04:00</Time>
     </Item>
     <Item>
       <Source>images\hitBox.png</Source>
@@ -35,7 +35,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Devon\git_projects\Army-Mayhem\ArmyPlatform\ArmyPlatform\bin\x86\Debug\Content\images\hitBox.xnb</Output>
-      <Time>2011-10-30T23:31:28.446-04:00</Time>
+      <Time>2011-10-31T03:06:16.627-04:00</Time>
     </Item>
     <Item>
       <Source>images\assaultBasicBullet.png</Source>
@@ -44,7 +44,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Devon\git_projects\Army-Mayhem\ArmyPlatform\ArmyPlatform\bin\x86\Debug\Content\images\assaultBasicBullet.xnb</Output>
-      <Time>2011-10-30T23:31:28.444-04:00</Time>
+      <Time>2011-10-31T03:06:16.624-04:00</Time>
     </Item>
     <Item>
       <Source>images\bottom_equipment_toolbar.png</Source>
@@ -53,7 +53,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Devon\git_projects\Army-Mayhem\ArmyPlatform\ArmyPlatform\bin\x86\Debug\Content\images\bottom_equipment_toolbar.xnb</Output>
-      <Time>2011-10-31T01:37:50.068-04:00</Time>
+      <Time>2011-10-31T03:06:16.625-04:00</Time>
     </Item>
     <Item>
       <Source>sounds\normalAssaultBullet.wav</Source>
@@ -62,7 +62,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Devon\git_projects\Army-Mayhem\ArmyPlatform\ArmyPlatform\bin\x86\Debug\Content\sounds\normalAssaultBullet.xnb</Output>
-      <Time>2011-10-30T23:31:28.449-04:00</Time>
+      <Time>2011-10-31T03:06:17.036-04:00</Time>
     </Item>
     <Item>
       <Source>sounds\Diamonds.wav</Source>
@@ -71,7 +71,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Devon\git_projects\Army-Mayhem\ArmyPlatform\ArmyPlatform\bin\x86\Debug\Content\sounds\Diamonds.xnb</Output>
-      <Time>2011-10-31T02:05:23.932-04:00</Time>
+      <Time>2011-10-31T03:06:17.034-04:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
