@@ -7,7 +7,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Devon\git_projects\Army_Mayhem\Army_Mayhem\Army_Mayhem\bin\x86\Debug\Content\images\assaultBasicBullet.xnb</Output>
+      <Output>C:\Users\Devon\git_projects\Army-Mayhem\Army_Mayhem\Army_Mayhem\bin\x86\Debug\Content\images\assaultBasicBullet.xnb</Output>
       <Time>2011-10-31T03:06:16.624-04:00</Time>
     </Item>
     <Item>
@@ -16,7 +16,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Devon\git_projects\Army_Mayhem\Army_Mayhem\Army_Mayhem\bin\x86\Debug\Content\images\bottom_equipment_toolbar.xnb</Output>
+      <Output>C:\Users\Devon\git_projects\Army-Mayhem\Army_Mayhem\Army_Mayhem\bin\x86\Debug\Content\images\bottom_equipment_toolbar.xnb</Output>
       <Time>2011-10-31T03:06:16.625-04:00</Time>
     </Item>
     <Item>
@@ -25,7 +25,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Devon\git_projects\Army_Mayhem\Army_Mayhem\Army_Mayhem\bin\x86\Debug\Content\images\grass.xnb</Output>
+      <Output>C:\Users\Devon\git_projects\Army-Mayhem\Army_Mayhem\Army_Mayhem\bin\x86\Debug\Content\images\grass.xnb</Output>
       <Time>2011-10-31T03:06:16.626-04:00</Time>
     </Item>
     <Item>
@@ -34,7 +34,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Devon\git_projects\Army_Mayhem\Army_Mayhem\Army_Mayhem\bin\x86\Debug\Content\images\hitBox.xnb</Output>
+      <Output>C:\Users\Devon\git_projects\Army-Mayhem\Army_Mayhem\Army_Mayhem\bin\x86\Debug\Content\images\hitBox.xnb</Output>
       <Time>2011-10-31T03:06:16.627-04:00</Time>
     </Item>
     <Item>
@@ -43,7 +43,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Devon\git_projects\Army_Mayhem\Army_Mayhem\Army_Mayhem\bin\x86\Debug\Content\images\iron.xnb</Output>
+      <Output>C:\Users\Devon\git_projects\Army-Mayhem\Army_Mayhem\Army_Mayhem\bin\x86\Debug\Content\images\iron.xnb</Output>
       <Time>2011-10-31T03:06:16.628-04:00</Time>
     </Item>
     <Item>
@@ -52,7 +52,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Devon\git_projects\Army_Mayhem\Army_Mayhem\Army_Mayhem\bin\x86\Debug\Content\images\stance.xnb</Output>
+      <Output>C:\Users\Devon\git_projects\Army-Mayhem\Army_Mayhem\Army_Mayhem\bin\x86\Debug\Content\images\stance.xnb</Output>
       <Time>2011-10-31T03:06:16.629-04:00</Time>
     </Item>
     <Item>
@@ -61,7 +61,7 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Devon\git_projects\Army_Mayhem\Army_Mayhem\Army_Mayhem\bin\x86\Debug\Content\sounds\bg_music_1.xnb</Output>
+      <Output>C:\Users\Devon\git_projects\Army-Mayhem\Army_Mayhem\Army_Mayhem\bin\x86\Debug\Content\sounds\bg_music_1.xnb</Output>
       <Time>2011-10-31T03:06:17.034-04:00</Time>
     </Item>
     <Item>
@@ -70,7 +70,7 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Devon\git_projects\Army_Mayhem\Army_Mayhem\Army_Mayhem\bin\x86\Debug\Content\sounds\normalAssaultBullet.xnb</Output>
+      <Output>C:\Users\Devon\git_projects\Army-Mayhem\Army_Mayhem\Army_Mayhem\bin\x86\Debug\Content\sounds\normalAssaultBullet.xnb</Output>
       <Time>2011-10-31T03:06:17.036-04:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
@@ -79,10 +79,10 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\Devon\git_projects\Army_Mayhem\Army_Mayhem\Army_MayhemContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\Devon\git_projects\Army_Mayhem\Army_Mayhem\Army_Mayhem\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\Devon\git_projects\Army_Mayhem\Army_Mayhem\Army_MayhemContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\Devon\git_projects\Army_Mayhem\Army_Mayhem\Army_Mayhem\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\Devon\git_projects\Army-Mayhem\Army_Mayhem\Army_MayhemContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Devon\git_projects\Army-Mayhem\Army_Mayhem\Army_Mayhem\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Devon\git_projects\Army-Mayhem\Army_Mayhem\Army_MayhemContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Devon\git_projects\Army-Mayhem\Army_Mayhem\Army_Mayhem\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
