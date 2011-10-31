@@ -16,11 +16,15 @@ namespace ArmyPlatform
     /// </summary>
     public class Game1 : Microsoft.Xna.Framework.Game
     {
+        const int UI_PADDING = 10;
+
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
         RandomMap randomMap;
         Character player;
         Camera camera;
+
+        UI_Element bottomItemBar;
 
         public Game1()
         {
@@ -46,6 +50,8 @@ namespace ArmyPlatform
             camera = new Camera(this);
             Components.Add(player);
 
+            bottomItemBar = new UI_Element(this, "bottom_equipment_toolbar"); 
+
             base.Initialize();
         }
 
@@ -57,6 +63,8 @@ namespace ArmyPlatform
         {
             // Create a new SpriteBatch, which can be used to draw textures.
             spriteBatch = new SpriteBatch(GraphicsDevice);
+
+            bottomItemBar.loadContent(this);
 
             Services.AddService(typeof(SpriteBatch), spriteBatch);
 
@@ -103,6 +111,7 @@ namespace ArmyPlatform
         {
             GraphicsDevice.Clear(Color.CornflowerBlue);
             
+            //scroll level
             spriteBatch.Begin(SpriteSortMode.BackToFront, BlendState.AlphaBlend, null, null, null, null, camera.getTransformation(GraphicsDevice));
 
             //draw map
@@ -118,7 +127,8 @@ namespace ArmyPlatform
             base.Draw(gameTime);
             spriteBatch.End();
 
-            
+            //Draw all UI here/////////////////
+            this.bottomItemBar.draw(spriteBatch, new Vector2((this.GraphicsDevice.Viewport.Width / 2) - (this.bottomItemBar.image.Width / 2), this.GraphicsDevice.Viewport.Height - this.bottomItemBar.image.Height));
         }
     }
 }

@@ -22,3 +22,4 @@ C:\Users\Devon\git_projects\Army-Mayhem\ArmyPlatform\ArmyPlatform\obj\x86\Debug\
 C:\Users\Devon\git_projects\Army-Mayhem\ArmyPlatform\ArmyPlatform\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\Devon\git_projects\Army-Mayhem\ArmyPlatform\ArmyPlatform\obj\x86\Debug\ArmyPlatform.exe
 C:\Users\Devon\git_projects\Army-Mayhem\ArmyPlatform\ArmyPlatform\obj\x86\Debug\ArmyPlatform.pdb
+C:\Users\Devon\git_projects\Army-Mayhem\ArmyPlatform\ArmyPlatform\bin\x86\Debug\Content\bottom_equipment_toolbar.xnb
