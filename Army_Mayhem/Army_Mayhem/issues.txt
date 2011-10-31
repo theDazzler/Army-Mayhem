@@ -1,0 +1,6 @@
+﻿Issues:
+        1. Fix collision detection when player walks over empty space(isFalling needs to get set to true when nothing is under the player)
+		2. Look at sprite's draw method. It should have a spriteBatch.Begin() and spriteBatch.End(). 
+		   But it wont render properly because of camera's getTransformation method. 
+		   With those methods, the world gets transformed to create a scrolling effect, but the object's positions internally would not change,
+		   they were just being drawn at a different location. Look at Game1 draw method, I changed order of base.draw and spriteBatch.End() to get it to work.

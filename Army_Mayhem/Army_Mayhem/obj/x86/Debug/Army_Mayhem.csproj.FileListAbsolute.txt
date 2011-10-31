@@ -1,0 +1,14 @@
+C:\Users\Devon\git_projects\Army_Mayhem\Army_Mayhem\Army_Mayhem\bin\x86\Debug\Content\images\assaultBasicBullet.xnb
+C:\Users\Devon\git_projects\Army_Mayhem\Army_Mayhem\Army_Mayhem\bin\x86\Debug\Content\images\bottom_equipment_toolbar.xnb
+C:\Users\Devon\git_projects\Army_Mayhem\Army_Mayhem\Army_Mayhem\bin\x86\Debug\Content\images\grass.xnb
+C:\Users\Devon\git_projects\Army_Mayhem\Army_Mayhem\Army_Mayhem\bin\x86\Debug\Content\images\hitBox.xnb
+C:\Users\Devon\git_projects\Army_Mayhem\Army_Mayhem\Army_Mayhem\bin\x86\Debug\Content\images\iron.xnb
+C:\Users\Devon\git_projects\Army_Mayhem\Army_Mayhem\Army_Mayhem\bin\x86\Debug\Content\images\stance.xnb
+C:\Users\Devon\git_projects\Army_Mayhem\Army_Mayhem\Army_Mayhem\bin\x86\Debug\Content\sounds\bg_music_1.xnb
+C:\Users\Devon\git_projects\Army_Mayhem\Army_Mayhem\Army_Mayhem\bin\x86\Debug\Content\sounds\normalAssaultBullet.xnb
+C:\Users\Devon\git_projects\Army_Mayhem\Army_Mayhem\Army_Mayhem\bin\x86\Debug\Army_Mayhem.exe
+C:\Users\Devon\git_projects\Army_Mayhem\Army_Mayhem\Army_Mayhem\bin\x86\Debug\Army_Mayhem.pdb
+C:\Users\Devon\git_projects\Army_Mayhem\Army_Mayhem\Army_Mayhem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Devon\git_projects\Army_Mayhem\Army_Mayhem\Army_Mayhem\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Devon\git_projects\Army_Mayhem\Army_Mayhem\Army_Mayhem\obj\x86\Debug\Army_Mayhem.exe
+C:\Users\Devon\git_projects\Army_Mayhem\Army_Mayhem\Army_Mayhem\obj\x86\Debug\Army_Mayhem.pdb
