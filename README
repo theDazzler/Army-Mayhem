@@ -1,4 +1,19 @@
 Army Mayhem
-Author: Devon
+Author: Devon Guinane
 
-All game art is placeholder art for right now
+Coding Conventions:
+  Variable names are camel case(no underscores): exampleVariable 
+  Class names start with capital letter: ExampleClass
+  Function names are camel case(no underscores): exampleFunction
+
+  I prefer brackets to start on a new line rather than after the function, class, or conditional statement
+  ex.
+  
+  class Example
+  {
+    
+  }
+
+
+
+All game art is placeholder art for right now.
