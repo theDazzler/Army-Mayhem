@@ -6,7 +6,7 @@ Coding Conventions:
   Class names start with capital letter: ExampleClass
   Function names are camel case(no underscores): exampleFunction
 
-  I prefer brackets to start on a new line rather than after the function, class, or conditional statement
+  I prefer brackets to start on a new line rather than on the same line as the function, class, or conditional statement
   ex.
   
   class Example
