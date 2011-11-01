@@ -29,7 +29,7 @@ namespace Army_Mayhem
         public Boolean isStanding = false;
 
         public int health = 100;
-        //public Item[] items;
+        public Item[] inventory;
         public Gun gun;
         
         public Character(Game game, RandomMap randomMap, string imageName, float xPos, float yPos, int width, int height)
@@ -38,6 +38,7 @@ namespace Army_Mayhem
             this.randomMap = randomMap;
             this.velocity.X = 205.0f;
             this.velocity.Y = 250.0f;
+            this.inventory = new Item[9];
             
         }
 

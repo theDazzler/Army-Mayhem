@@ -23,8 +23,8 @@ namespace Army_Mayhem
         public List<Bullet> bullets = new List<Bullet>();
         public RandomMap randomMap;
 
-        public Gun(Game game, RandomMap randomMap, string imageName, float xPos, float yPos, int width, int height)
-            : base(game, imageName, xPos, yPos, width, height)
+        public Gun(Game game, RandomMap randomMap, string imageName, string iconName, float xPos, float yPos, int width, int height)
+            : base(game, imageName, iconName, xPos, yPos, width, height)
         {
             this.LoadContent();
             this.randomMap = randomMap;

@@ -10,7 +10,7 @@ namespace Army_Mayhem
     class AssaultRifle : Gun
     {
         public AssaultRifle(Game game, RandomMap randomMap, float xPos, float yPos, int width, int height)
-            : base(game, randomMap, "images/assaultBasicBullet", xPos, yPos, width, height)
+            : base(game, randomMap, "images/assaultBasicBullet", "images/empty_icon", xPos, yPos, width, height)
         {
             this.name = "Assault Rifle";
             this.fireRate = 0.1f;

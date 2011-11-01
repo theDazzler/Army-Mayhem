@@ -26,3 +26,5 @@ C:\Users\Devon\git_projects\Army-Mayhem\Army_Mayhem\Army_Mayhem\obj\x86\Debug\Re
 C:\Users\Devon\git_projects\Army-Mayhem\Army_Mayhem\Army_Mayhem\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\Devon\git_projects\Army-Mayhem\Army_Mayhem\Army_Mayhem\obj\x86\Debug\Army_Mayhem.exe
 C:\Users\Devon\git_projects\Army-Mayhem\Army_Mayhem\Army_Mayhem\obj\x86\Debug\Army_Mayhem.pdb
+C:\Users\Devon\git_projects\Army-Mayhem\Army_Mayhem\Army_Mayhem\bin\x86\Debug\Content\fonts\Arial.xnb
+C:\Users\Devon\git_projects\Army-Mayhem\Army_Mayhem\Army_Mayhem\bin\x86\Debug\Content\images\empty_icon.xnb

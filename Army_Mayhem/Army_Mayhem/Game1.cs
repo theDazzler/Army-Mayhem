@@ -49,7 +49,8 @@ namespace Army_Mayhem
             camera = new Camera(this);
             Components.Add(player);
 
-            bottomItemBar = new UI_Element(this, "images/bottom_equipment_toolbar"); //bottom inventory bar
+            this.bottomItemBar = new InventoryToolbar(this); //bottom inventory bar
+            
 
             base.Initialize();
         }
@@ -66,7 +67,8 @@ namespace Army_Mayhem
             bgMusic = this.Content.Load<SoundEffect>("sounds/bg_music_1");
             bgMusic.Play();
             
-            bottomItemBar.loadContent(this);
+            this.bottomItemBar.loadContent(this);
+            this.bottomItemBar.setPosition(new Vector2((this.GraphicsDevice.Viewport.Width / 2) - (this.bottomItemBar.image.Width / 4), this.GraphicsDevice.Viewport.Height - this.bottomItemBar.image.Height / 2)); // 4 is used because the toolabr is being scaled down by .5
 
             Services.AddService(typeof(SpriteBatch), spriteBatch);
         }
@@ -129,7 +131,7 @@ namespace Army_Mayhem
             spriteBatch.End();
 
             //Draw all UI here/////////////////
-            this.bottomItemBar.draw(spriteBatch, new Vector2((this.GraphicsDevice.Viewport.Width / 2) - (this.bottomItemBar.image.Width / 2), this.GraphicsDevice.Viewport.Height - this.bottomItemBar.image.Height));
+            this.bottomItemBar.draw(spriteBatch, this.player);
         }
     }
 }

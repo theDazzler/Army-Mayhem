@@ -116,6 +116,7 @@
     <Compile Include="GameSettings.cs" />
     <Compile Include="GrassBlock.cs" />
     <Compile Include="Gun.cs" />
+    <Compile Include="InventoryToolbar.cs" />
     <Compile Include="IronBlock.cs" />
     <Compile Include="Item.cs" />
     <Compile Include="NormalAssaultBullet.cs" />

@@ -17,7 +17,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Devon\git_projects\Army-Mayhem\Army_Mayhem\Army_Mayhem\bin\x86\Debug\Content\images\bottom_equipment_toolbar.xnb</Output>
-      <Time>2011-10-31T03:06:16.625-04:00</Time>
+      <Time>2011-11-01T00:36:30.252-04:00</Time>
     </Item>
     <Item>
       <Source>images\grass.png</Source>
@@ -72,6 +72,24 @@
       <Options>None</Options>
       <Output>C:\Users\Devon\git_projects\Army-Mayhem\Army_Mayhem\Army_Mayhem\bin\x86\Debug\Content\sounds\normalAssaultBullet.xnb</Output>
       <Time>2011-10-31T03:06:17.036-04:00</Time>
+    </Item>
+    <Item>
+      <Source>fonts\Arial.spritefont</Source>
+      <Name>fonts\Arial</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Devon\git_projects\Army-Mayhem\Army_Mayhem\Army_Mayhem\bin\x86\Debug\Content\fonts\Arial.xnb</Output>
+      <Time>2011-10-31T22:53:41.423-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\empty_icon.png</Source>
+      <Name>images\empty_icon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Devon\git_projects\Army-Mayhem\Army_Mayhem\Army_Mayhem\bin\x86\Debug\Content\images\empty_icon.xnb</Output>
+      <Time>2011-11-01T01:29:42.943-04:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
